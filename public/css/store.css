@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+
+
+
+.feat{
+    justify-content: space-around;
+}
+
+#product{
+    justify-content: space-around;
+}
+
+#shop{
+    margin-left: -20%;
+  
+}
+
+#shopss{
+    margin-left: 20%;
+}
+
+
+#shopsss{
+    margin-left: -62%;
+    height: 55vh;
+    margin-top: 2%;
+}
+
+#shopy{
+    margin-left: -20%; 
+    height: 55vh;
+    margin-top: 2%;
+
+ 
+}
+
+#shopys{
+    height: 55vh;
+    margin-top: 2%;
+   
+}
+
+.navbr{
+    justify-content: space-between;
+    margin-left: 50%;
+    padding: 1%;
+    vertical-align: middle;
+    color:white;
+    position: fixed;
+    z-index: 1;
+}
+
+
+
+.navbr li a{
+color: #000;
+}
+
+.bev #dropdown2{
+    background-color: white;
+    color: #000;
+    margin-top: 0%;
+    border: #fff;
+}
+
+.bov #dropdown3{
+    background-color: white;
+    color: #000;
+    margin-top: 0;
+    border: #fff;
+
+}
+
+#backfood{
+    /* background-image: url(/public/animal/forth.jpeg); */
+    height: 50vh;
+background-image: url(https://cdn.shopify.com/s/files/1/0309/7621/files/slide_2_1810x700_crop_center.png?v=1620302571
+        );
+background-size: cover;
+    width: 100%;
+    opacity: 0.8;
+
+}
+.serv1{
+    text-align: left;
+    margin-left: 3%;
+    font-family: 'Fugaz One', cursive;
+    margin-top: 5%;
+    font-weight: bold;
+    color: #000;
+}
+.serv2{
+    text-align: left;
+    margin-left: 3%;
+    font-family: 'Fugaz One', cursive;
+    font-weight: bold;
+    color: #000;
+}
+
+.nstore{
+    opacity: 0.6;
+}
+
+.nor{
+    text-align: left;
+    position: absolute;
+    z-index: 1;
+    top: 50px;
+    line-height: 1.6em;
+    margin-left: 3%;
+    font-family: 'Comfortaa', cursive;
+    /* font-family: 'Dongle', sans-serif; */
+    /* font-family: 'Fugaz One', cursive; */
+    color: #fff;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 7%;
+}
+
+.nors{
+    text-align: left;
+    position: absolute;
+    z-index: 1;
+    top: 50px;
+    line-height: 1.6em;
+    margin-left: 3%;
+    font-family: 'Comfortaa', cursive;
+    /* font-family: 'Dongle', sans-serif; */
+    /* font-family: 'Fugaz One', cursive; */
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 7%;
+}
+
+.lin2 button{
+    position: absolute;
+    z-index: 1;
+    top: 50px;
+    line-height: 1.6em;
+    margin-left: -40%;   
+    font-family: 'Comfortaa', cursive;
+    margin-top: 18%;
+    justify-content: left;
+}
+
+.lin2 button.btr{
+    margin-top: 21%;
+}
+
+.fd{
+    align-items: center;
+    margin-right: 15%;
+}
+
+.fd a{
+    text-decoration: none;   
+}
+
+.fd h3{
+    color: #000;
+    font-family: 'Comfortaa', cursive;
+    margin-left: 5%;
+}
+
+.icr{
+    margin-left: 35%;
+}
+
+.as{
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.as a{
+    text-decoration: none;     
+}
+
+.as h3{
+    color: #000;
+    font-family: 'Comfortaa', cursive;
+    margin-right: 7%;  
+}
+
+.as a{
+    margin-left: 15%;
+}
+
+
+
+.ig img{
+    width: 80%;
+    height: 100vh;
+}
+
+.drep{
+    margin-top: 8%;
+    line-height: 1.6em;
+}
+
+.drep h1 .iconify{
+  color: #7DAFAF !important;  
+}
+
+.drep h6{
+    color: #7DAFAF ;
+    font-weight: bold;  
+}
+
+  .drep h4{
+  line-height: 1.5em;  
+  font-family: 'Comfortaa', cursive;
+}
+
+.shop{
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    margin: auto;
+    height: 54vh;
+    color: #000;
+}
+
+.shop img{
+    height: 150px;
+    width: 200px;
+    margin: auto;
+    padding: 5%;
+}
+#text h5,p{
+    color: #000 !important;
+}
+
+.shop h5,p{
+    color: #000 !important;
+
+}
+
+
+.prd h2{
+text-align: center;
+font-family: 'Comfortaa', cursive;
+}
+
+
+.conr img{
+    width: 350px;
+}
+
+#shop{
+    margin-left: -62%;
+    height: 57vh;
+}
+
+#shopss{
+    margin-left: -21%;
+    height: 57vh;
+
+}
+
+#between{
+    height: 57vh;
+}
+
+.conr.card{
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    height: 60vh;
+    margin-left: 20%;
+    margin-bottom: 25%;
+}
+
+.ftpr img{
+width: 250px;
+margin: auto;
+height: 190px;
+padding: 5%;
+}
+
+.ftpr h5,p{
+    color: #000;
+}
+
+.feat h2{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+
+.discounttt{
+    height: 67vh;
+    background-image: url(/public/animal/second.jpeg);
+   width: 100%;
+}
+
+.discounttt h1{
+    color: #000;
+    font-family: 'Comfortaa', cursive;
+    margin-left: 5%;
+}
+
+.discounttt button{
+    font-family: 'Comfortaa', cursive;
+    margin-left: 20%;
+}
+
+
+.inshop .card{
+    width: 100%;
+     margin-left: 1%; 
+    border: none;
+    border-left: #000 !important;
+   
+} 
+
+#quality{
+    margin-right: 1%;
+}
+.card #card1{
+    border-right:none;
+    
+}
+
+/* @media(max-width:700px){
+
+#backfood{
+    background-size: cover;
+}
+#new .card .shop{
+    display: block !important;
+    width: 50%;
+}
+} */
+
+

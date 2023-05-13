@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+h1{
+    font-family: 'Comfortaa', cursive;
+}
+
+
+.v1{
+    justify-content: center;
+    align-items: center;
+}
+
+#c1{
+    margin-top: 0%;
+
+}
+
+
+
+#c2{
+    margin-top: 0%;
+}
+
+
+
+#c4{
+    margin-top: 0%;
+}
+#teach{
+    margin-top: 0%;
+
+}
+
+
+#c5{
+    margin-top: 0%;
+}
+
+
+
+
+
+.t1{
+/* padding-top: 20px; */
+float: left;
+/* margin: 80px; */
+padding-top: 40px;
+margin-left: 100px;
+}
+
+/* .v2{
+    float: left;
+}
+.t2{
+
+    float: left;
+text-align: left;
+} */
+
+.col{
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+}
+.row{
+   /* margin: 10px; */
+   justify-content: space-around;
+   padding: 10px;
+}
+.card{
+    border: 1px solid white;
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    font-family: 'Comfortaa', cursive;
+}
+.v1{
+    width: 425px;
+}
+.v1:hover{
+transform: scale(1.5);  
+  cursor: pointer;
+  z-index: 3;
+}
+
+@media (max-width:700px) {
+.card iframe{
+    width:100%;
+}
+}

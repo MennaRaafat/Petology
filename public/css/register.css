@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+.reg{
+    font-family: 'Comfortaa', cursive;
+
+}
+
+/* .rright {
+    width: 600px;
+    margin-left: 0px;
+    height: 84vh;
+    margin-top: 6.5%;
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    background-image: url(https://images.unsplash.com/photo-1512366364788-fab8253b1649?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80) , linear-gradient(rgba(25, 32, 37, 0.7), rgba(25, 32, 37, 0.7)) ; 
+    opacity: 0.8;
+
+} */
+
+
+.fe{
+margin-right: 10%;
+}
+
+.left button{
+    background-color: #7DAFAF ;
+    color: #fff;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 35%;
+    align-items: center;
+}
+
+.left button :hover{
+    background-color: #7DAFAF ;
+    color: #fff;
+}
+
+.left .card{
+    padding: 40px;
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    height: 85vh;
+    margin: auto;
+}

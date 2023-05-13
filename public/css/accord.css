@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+.choose h3{
+    font-family: 'Comfortaa', cursive;
+text-align: center;
+}
+
+#accordionFlushExample{
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+.accordion-item{
+    margin: 1%;
+    line-height: 1.6em;
+}
+

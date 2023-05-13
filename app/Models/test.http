@@ -1,0 +1,24 @@
+Get http://127.0.0.1:8000/api/user Http/1.1
+
+
+
+
+###
+ 
+
+ POST http://127.0.0.1:8000/api/user Http/1.1
+
+ Content-Type: application/json
+
+ {
+     "us_name": "Merehan yehia",
+     "email" : "Merehan@gmail.com",
+    "gender" : "female",
+    "age" : "21",
+   "phone_number" : "4533565464",
+    "password" : "11223344"
+
+
+
+
+ }

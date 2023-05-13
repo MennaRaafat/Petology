@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+
+/* img{
+} */
+
+#img{
+margin-left: -15%;
+border-radius: 50%;
+width: 200px;
+height: 25vh;
+float: left;
+
+}
+
+
+
+
+form{
+    width: 70%;
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    font-family: 'Comfortaa', cursive;
+   margin-top: 35%;
+}
+
+
+#trainerupdate{
+    margin: auto;
+}
+
+#bb{
+    margin-left: 45%;
+    background-color: #7DAFAF ;
+}
+
+
+
+
+@media(max-width:700px){
+    .nav-link{
+        color: #000 !important;
+      }
+     
+      #img{
+margin-right: 15%;
+      }
+
+      #bb{
+        margin-left: 37%;
+    }
+}

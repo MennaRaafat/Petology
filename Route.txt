@@ -1,0 +1,5 @@
+Route:/profile/doctor/id_number
+
+Route:/profile/trainer/id_number
+
+Route:/profile/seller/id_number

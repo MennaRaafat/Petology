@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Beau+Rivage&family=Lobster&family=Source+Code+Pro:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+.about{
+text-align: center;
+height: 10vh;
+ /* font-family: 'Montserrat', sans-serif; */
+ visibility: visible;
+}
+
+.about h2{
+   font-family: 'Comfortaa', cursive;
+
+}
+
+.nav {
+   justify-content: center;
+   margin: 10px;
+   line-height:1.4em;
+   font-family: 'Source Code Pro', monospace;
+   color: #000; 
+   font-weight: bold;
+}
+
+#goal-tab :active {
+   background-color: #7DAFAF;
+}
+
+#goal{
+   line-height:1.6em; 
+   font-size: 20px;
+}
+
+#vision{
+      line-height:1.6em; 
+      font-size: 20px;
+}
+
+#mission{
+   line-height:1.6em; 
+   font-size: 20px;
+   text-align: center;
+   justify-content: center;
+}
+
+#goal-tab{
+   font-size: 20px;
+}

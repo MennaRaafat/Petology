@@ -1,0 +1,17 @@
+.swal2-popup {
+    font-size: 12px !important;
+    margin: 50% !important;
+  }
+  
+#uname{
+color: white;
+margin-top: 1.5%;
+}
+
+.swal2-button --confirm{
+  margin: 50% !important;
+  padding: 50% !important;
+}
+.showCancelButton{
+  margin: 50% !important;
+}

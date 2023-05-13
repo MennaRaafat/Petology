@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+#footers{
+    background-color: #fff;
+    color: black;
+    position: fixed;
+}
+
+#footers .logo{
+    color: black;
+
+}
+
+
+#men li a{
+    color: #000;
+}
+
+.Footerr{
+    background-color: #669c9c;
+    height: 67vh;
+    font-family: 'Comfortaa', cursive;
+    color: #fff;
+    /* margin: auto; */
+    /* justify-content: center;
+    align-items: center;
+    justify-self: center;
+    align-self: center; */
+    /* margin-left: 5%; */
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 99vw;
+}
+
+.drp{
+    margin-left: 0px;
+    margin-top: -70px;
+}
+
+.fr .col-3 p{
+float: left;
+text-align: left;
+justify-self: start;
+align-items: left;
+justify-content: left;
+margin: 0px;
+line-height: 1.6em;
+}
+
+#ic a{
+    margin-bottom: 17px;
+    color: #fff;
+}
+
+#fot{
+    float: left;
+    color: #fff !important;    
+    text-align: left;
+    line-height: 1.6em;
+    pointer-events: none;
+}
+
+#ser{
+    line-height: 1.5em;
+    margin-left: 40px;
+}
+
+#ser ul{
+    margin-left: 15px;
+    font-size: 1em;
+}
+
+#ser ul a{
+    color: #fff;
+
+}
+
+#ser ul li{
+    list-style: none;
+text-align: left;
+margin-left: 3%;
+
+}
+    
+
+#or{
+pointer-events: none;
+color: #fff;
+padding-bottom: 10px;
+
+}
+
+#ser a{
+    margin-top: -5px;
+    line-height: 1.6em;
+
+}
+
+#ic{
+margin: 10px;
+padding: 10px;
+}
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:221px;
+    width:224px;
+}
+
+.gmap_canvas {
+
+    overflow:hidden;
+    background:none!important;
+    height:215px;
+    width:225px;
+    margin-right: -20%;
+}
+
+#shel h5{
+
+    color: #fff;
+    pointer-events: none;
+
+}
+
+#shel{
+     margin-top: 18%;
+     margin-right: 28%;
+
+ }
+
+
+ .content{
+    margin-top: -2%;
+  }
+
+  #term{
+      line-height: 1.9em;
+      margin-top: -14%;
+  }
+
+  #term ul{
+      margin-left: 15px;
+  }
+
+  #term ul li{
+      list-style: none;
+      text-align: left;
+      margin-left: 3%;
+  }

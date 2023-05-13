@@ -1,0 +1,91 @@
+#gform{
+    margin: auto;
+    padding: 0px;
+    box-shadow: 0px 0px 3px 3px rgb(235, 233, 233), 0px 0px 3px 3px rgb(243, 242, 242);
+    height: 108vh;
+    display: block;
+    position: relative;
+    background-color: #fff;
+    width: 50%;
+}
+
+#in1{
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+margin-left: 5%; 
+margin-top: 2%;  
+}
+#lab1{
+       
+    margin-left: 5%; 
+    /* margin-top: 1%;    */
+    font-weight: bolder;
+}
+#in2{
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;   
+    margin-left: 5%;
+}
+
+ #in3{
+    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    margin-top: 5%;   
+margin-left: 5%;
+} 
+#lab3{
+       
+    margin-left: 5%;  
+    font-weight: bolder; 
+} 
+#in4{
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+#inputGroupFile01{
+    max-width: 50%;
+    /* margin-top: 5%;
+    margin-left: 14%;
+ top: 10px;
+/* height: 40px; */
+margin-top: 1%;
+margin-left: 3%;  
+
+
+/* left: 10px;  */
+} 
+ #lab{
+     margin-top: 1%;
+     margin-left: 2%;  
+     font-weight: bolder; 
+    color: #000;
+/* margin-top: 10px; */
+background-color: #fff;
+border: none;
+
+
+} 
+
+
+
+#in5{
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: -6%; */
+    margin-top: 15%;
+    margin-left:49% ;
+}
+#bb{
+    /* margin-left:40% ; */
+    margin-top: 6%;
+    width: 20%;
+    margin-left: 40%;
+}
